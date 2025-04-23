@@ -5,7 +5,7 @@ class Person:
     pass
 
 class Animal:
-  ...
+  pass
 
 class Classy:
     varia = 2
